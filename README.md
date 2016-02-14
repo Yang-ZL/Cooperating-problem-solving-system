@@ -1,4 +1,4 @@
-# Cooperating-problem-solving-system
+# Cooperative-problem-solving-system
 
 ![](/img/demo.png)
 
